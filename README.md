@@ -1,4 +1,4 @@
-# Desfio Rockeseat: Mapeando o Domínio
+# Desafio Rockeseat: Mapeando o Domínio
 
 Nessa atividade eu tive que ler uma conversa entre um Domain Expert e um desenvolvedor responsável por criar a aplicação. O objetivo é identificar as entidades e casos de uso para essa aplicação com base nessa conversa!
 
